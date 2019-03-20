@@ -67,7 +67,8 @@ udma/udma_i2c:
 udma/udma_i2s:
   commit: tags/pulpissimo-v1.0
 udma/udma_qspi:
-  commit: tags/pulpissimo-v1.0
+  #commit: tags/pulpissimo-v1.0
+  commit: master
 udma/udma_sdio:
   commit: tags/pulpissimo-v1.0.1
 udma/udma_camera:
